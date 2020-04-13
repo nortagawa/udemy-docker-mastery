@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About that Udemy Docker Mastery course...
 permalink: /about/
 ---
 
